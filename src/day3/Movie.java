@@ -6,4 +6,5 @@ public class Movie {
     //again
     //and again
     //and again
+    //added smth into class
 }
