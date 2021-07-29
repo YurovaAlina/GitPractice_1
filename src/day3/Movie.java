@@ -1,6 +1,9 @@
 package day3;
 
 public class Movie {
-    //I watched the movie for 10 mins
-    
+    //watching movie
+    //watching until 25 mins
+    //again
+    //and again
+    //and again
 }
