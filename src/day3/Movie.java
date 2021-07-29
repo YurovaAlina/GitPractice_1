@@ -6,5 +6,6 @@ public class Movie {
     //again
     //and again
     //and again
-    //master added awesome movie stuff
+    //added smth into class
+    //done here
 }
