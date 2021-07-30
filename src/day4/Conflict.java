@@ -7,8 +7,6 @@ public class Conflict {
 
     //This is collection branch content
         //I hope merge will happen
-    //This is the change collection2 branch doesn't know about
-    
-
+//Good job
 
 }
